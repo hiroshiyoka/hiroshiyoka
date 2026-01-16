@@ -4,6 +4,8 @@
 
   <p>
     hiroshiyoka builds meaningful digital experiences at the intersection of education, AI, and Web3 Industry. Developer of <a href="https://wordwise.id" target="_blank">Wordwise</a>.
+    <br/>
+    <sub><i>Currently hacking on Rust & Solana.</i></sub>
   </p>
 
   <br />
